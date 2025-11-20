@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914086890954",
+    "project_id": "dietplanner-db43f",
+    "storage_bucket": "dietplanner-db43f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914086890954:android:da055548c3f9b52bfc9333",
+        "android_client_info": {
+          "package_name": "com.dietplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9O70CRWt2w4hcHZLH3PeENwiOlYcCTow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
